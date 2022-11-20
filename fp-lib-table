@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name "2012670005")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/2012670005")(options "")(descr ""))
+  (lib (name "RB1-125BAG1A")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/RB1-125BAG1A")(options "")(descr ""))
+  (lib (name "W5500 (3)")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/W5500 (3)")(options "")(descr ""))
+  (lib (name "ECS-250-18-23A-EN-TR")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/ECS-250-18-23A-EN-TR")(options "")(descr ""))
+  (lib (name "MIC5365-3")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/MIC5365-3.3YC5-TR")(options "")(descr ""))
+  (lib (name "CP2102N-A02-GQFN24")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/CP2102N-A02-GQFN24")(options "")(descr ""))
+  (lib (name "SOT95P230X110-3N")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/SOT95P230X110-3N")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/kicad-libraries-main/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "SEB")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB")(options "")(descr ""))
+)

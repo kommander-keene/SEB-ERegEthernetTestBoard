@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/kicad-libraries-main/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "RB1-125BAG1A")(type "Legacy")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/RB1-125BAG1A/RB1-125BAG1A.lib")(options "")(descr ""))
+  (lib (name "MIC5365-3.3YC5-TR")(type "KiCad")(uri "/Users/macbookair13/Desktop/UC BERKELEY CS/SEB/MIC5365-3.3YC5-TR/MIC5365-3.3YC5-TR.kicad_sym")(options "")(descr ""))
+)
